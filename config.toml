@@ -31,8 +31,8 @@ theme = "aafu"
         name = "First Last, Abbr."
 		tagline = "Title"
 		location = "City Name, ST"
-        photo = "profile.jpg"
-
+        photo = "hommer.jpg"
+	
     # Section for links to social websites
     [params.social]
         title = "Links"
